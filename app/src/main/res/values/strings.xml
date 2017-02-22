@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SaylaniProject</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="Blood_Groups">
+        <item>A+</item>
+        <item>O+</item>
+        <item>B+</item>
+        <item>AB+</item>
+        <item>A-</item>
+        <item>O-</item>
+        <item>B-</item>
+        <item>AB-</item>
+    </string-array>
+    <string-array name="Membership">
+        <item>Member</item>
+        <item>volunteer</item>
+    </string-array>
+</resources>

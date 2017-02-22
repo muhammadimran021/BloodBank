@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "447281049985",
+    "firebase_url": "https://fir-ui-adfbb.firebaseio.com",
+    "project_id": "fir-ui-adfbb",
+    "storage_bucket": "fir-ui-adfbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447281049985:android:c49c6ba19f5c2191",
+        "android_client_info": {
+          "package_name": "com.example.muhammadimran.saylaniproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447281049985-njt82111afdsg6bnuffig4mbostdj8mf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXLmkrVKElRAdTSOmaedCLVTsyv-QBhbU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
