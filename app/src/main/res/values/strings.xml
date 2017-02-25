@@ -18,4 +18,13 @@
         <item>Member</item>
         <item>volunteer</item>
     </string-array>
+    <string name="title_activity_sign_in_with_navigation">SignInActivityWithNavigation</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_navigation_drawer">navigationDrawer</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_member_navigation_drawer">MemberNavigationDrawer</string>
 </resources>

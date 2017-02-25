@@ -65,8 +65,7 @@
             android:layout_height="35dp"
             android:layout_margin="5dp"
             android:background="@drawable/circular_edittext"
-            android:entries="@array/Blood_Groups"
-            android:onClick="BloodGroup" />
+            android:entries="@array/Blood_Groups" />
 
         <Spinner
             android:id="@+id/Required"
@@ -74,8 +73,7 @@
             android:layout_height="35dp"
             android:layout_margin="5dp"
             android:background="@drawable/circular_edittext"
-            android:entries="@array/Membership"
-            android:onClick="MembershipType" />
+            android:entries="@array/Membership" />
 
         <EditText
             android:id="@+id/Password"
@@ -95,7 +93,7 @@
 
 
         <Button
-            android:id="@+id/login"
+            android:id="@+id/signUp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
